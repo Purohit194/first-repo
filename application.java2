@@ -21,4 +21,8 @@ public class SwapNumbers {
         System.out.println("First number = " + first);
         System.out.println("Second number = " + second);
     }
+# changes in Feature301 by developer rohit
+	ax2 + bx + c = 0, where
+a, b and c are real numbers and
+a ≠ 0
 }
